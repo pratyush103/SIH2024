@@ -1,0 +1,16 @@
+{
+  "name": "sih2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ether": "^0.0.9",
+    "web3": "^4.12.1"
+  }
+}
